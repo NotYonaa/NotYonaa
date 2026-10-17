@@ -4,10 +4,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="154" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNkZHZjZmJ3M3M4bDlwczVpOGIyN2psdjJicWE2ajExeHM3Y2w1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-
-###
-
 <h1 data-importer="text" align="center">Hi, I'm Yomna</h1>
 
 ###
@@ -15,6 +11,10 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=NotYonaa.NotYonaa&left_text=Profile%20views"  />
 </div>
+
+###
+
+<img data-importer="image" align="right" height="154" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNkZHZjZmJ3M3M4bDlwczVpOGIyN2psdjJicWE2ajExeHM3Y2w1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 
