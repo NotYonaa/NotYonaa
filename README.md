@@ -18,11 +18,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">I'm a G12 student at New Cairo STEM School.<br><br>💻 I'm a Full-Stack Web Developer passionate about building websites and exploring new technologies.<br>🎨 I enjoy graphic design and combining creativity with technology.<br>🌱 I'm always learning, improving my skills, and working on new projects.<br>🤝 I'm open to collaborating on interesting web development projects.</p>
+<p data-importer="text" align="left">I'm a G12 student at New Cairo STEM School.<br><br> I'm a Full-Stack Web Developer passionate about building websites and exploring new technologies.<br> I enjoy graphic design and combining creativity with technology.<br> I'm always learning, improving my skills, and working on new projects.<br> I'm open to collaborating on interesting web development projects.</p>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">   My Stats :</h3>
 
 ###
 
