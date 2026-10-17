@@ -70,16 +70,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotYonaa/NotYonaa/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotYonaa/NotYonaa/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NotYonaa/NotYonaa/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=NotYonaa.NotYonaa&"  />
-</div>
+<img data-importer="snake" src="https://raw.githubusercontent.com/NotYonaa/NotYonaa/snake-output/snake.svg" alt="Snake animation" />
 
 ###
